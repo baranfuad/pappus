@@ -1,0 +1,8 @@
+POINTS p=(0.905,0,-0.098): t=30 deg: Mb in [0.306507 +/- 5.30e-7] [+]; t=43.5 deg: Mb in [-0.0212115 +/- 5.07e-8] [-]; t=80 deg: Mb in [21.245090 +/- 5.33e-7] [+]; t=130 deg: Mb in [-2.9130832 +/- 7.74e-8] [-]
+  (elapsed 0 s)
+POINTS p=(0.905,0,-0.102): t=30 deg: Mb in [0.357355 +/- 6.47e-7] [+]; t=43.5 deg: Mb in [0.0367451 +/- 8.44e-8] [+]; t=80 deg: Mb in [21.310998 +/- 5.57e-7] [+]; t=130 deg: Mb in [-2.9710257 +/- 6.47e-8] [-]
+  (elapsed 0 s)
+COVER p=(0.905,0,-0.102) ranges [(40.0, 41.0)]: certified=True, 20 boxes, sign runs [(40.0, 41.0, '+')] []
+  (elapsed 42 s)
+COVER p=(0.905,0,-0.102) ranges [(0.0, 105.0), (120.0, 180.0)]: certified=True, 16539 boxes, sign runs [(0.0, 105.0, '+'), (120.0, 180.0, '-')] []
+  (elapsed 3148 s)
